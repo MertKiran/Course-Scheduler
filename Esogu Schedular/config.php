@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "schedularv2";
+$dbname = "schedularv3";
 
 // Create connection
 
