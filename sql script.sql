@@ -110,5 +110,3 @@ AS
 SELECT birim_adi,birim FROM bolumler;
 
 GO  
-
-
