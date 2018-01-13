@@ -1,0 +1,5 @@
+1-) "Mysql script.sql" ile veri tabanını, Tabloları ve Store Procedurlerini oluşturunuz.
+2-) "Schedular" klasörünün içindeki "config.php"  dosyayı içerisinde veritabanı bağlantı ayarlarını kendi 
+veritabanınıza uygun şekilde güncelleyiniz.
+3-) "Schedular" klasörünü sunucu alanına ekleyiniz.
+4-) Veritabanı bağlantıları gerçekleştildi ise "bolumler" tablosuna eklenen dersler,"Bölüm Seçimi Yapınız:" menüsünde listelenecektir.
